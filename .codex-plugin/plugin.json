@@ -1,0 +1,6 @@
+{
+  "name": "marked",
+  "description": "Local, transparent Agent/Skill recommendations with versioned evidence and feedback",
+  "version": "0.1.0",
+  "hooks": "./hooks/hooks.json"
+}

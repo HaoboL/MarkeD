@@ -1,0 +1,15 @@
+{
+  "id": "code-review-agent",
+  "version": "1.0.1",
+  "kind": "agent",
+  "title": "Code review assistant",
+  "description": "Review source code changes for correctness and maintainability.",
+  "author": "MarkeD example team",
+  "license": "MIT",
+  "source": "MarkeD local example",
+  "content_file": "agent.md",
+  "tags": ["code review", "代码审查"],
+  "stages": ["code-review"],
+  "harnesses": ["codex", "claude-code"],
+  "support_files": ["LICENSE.txt"]
+}

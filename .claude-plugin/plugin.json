@@ -1,0 +1,5 @@
+{
+  "name": "marked",
+  "description": "Local preview and explicit loading of versioned Agent/Skill recommendations",
+  "version": "0.1.0"
+}

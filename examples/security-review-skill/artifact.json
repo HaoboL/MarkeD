@@ -1,0 +1,16 @@
+{
+  "id": "security-review-skill",
+  "version": "1.0.1",
+  "kind": "skill",
+  "title": "Security code review",
+  "description": "Check a code change for concrete security regressions.",
+  "author": "MarkeD example team",
+  "license": "MIT",
+  "source": "MarkeD local example",
+  "content_file": "SKILL.md",
+  "tags": ["security", "安全审查", "code review"],
+  "stages": ["code-review"],
+  "harnesses": ["codex", "claude-code"],
+  "support_files": ["LICENSE.txt"],
+  "compatible_agents": ["code-review-agent"]
+}

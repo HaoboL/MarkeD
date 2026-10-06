@@ -1,0 +1,52 @@
+[
+  {
+    "id": "github-ci",
+    "task": "Fix a failing GitHub Actions CI check on my pull request",
+    "expected": "gh-fix-ci"
+  },
+  {
+    "id": "github-comments",
+    "task": "Address review comments on my GitHub pull request",
+    "expected": "gh-address-comments"
+  },
+  {
+    "id": "security-practices",
+    "task": "Review this Python project for security best practices",
+    "expected": "security-best-practices"
+  },
+  {
+    "id": "security-threat",
+    "task": "Create a security threat model for this service",
+    "expected": "security-threat-model"
+  },
+  {
+    "id": "security-ownership",
+    "task": "Map security ownership of this repository and find unowned code",
+    "expected": "security-ownership-map"
+  },
+  {
+    "id": "notebook",
+    "task": "Create a Jupyter notebook for exploratory data analysis",
+    "expected": "jupyter-notebook"
+  },
+  {
+    "id": "cli",
+    "task": "Build a reusable Python command line interface tool",
+    "expected": "cli-creator"
+  },
+  {
+    "id": "screenshot",
+    "task": "Take a screenshot of the current app interface",
+    "expected": "screenshot"
+  },
+  {
+    "id": "academic-writing-out-of-scope",
+    "task": "Write an academic literature review about federal learning",
+    "expected": null
+  },
+  {
+    "id": "meeting-notes-out-of-scope",
+    "task": "Summarize the meeting notes for our weekly team sync",
+    "expected": null
+  }
+]

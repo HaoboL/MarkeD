@@ -1,0 +1,15 @@
+{
+  "id": "academic-editor-agent",
+  "version": "1.0.1",
+  "kind": "agent",
+  "title": "Academic writing editor",
+  "description": "Edit scholarly prose for clarity while preserving claims and citations.",
+  "author": "MarkeD example team",
+  "license": "MIT",
+  "source": "MarkeD local example",
+  "content_file": "agent.md",
+  "tags": ["academic writing", "论文写作"],
+  "stages": ["academic-editing"],
+  "harnesses": ["codex", "claude-code"],
+  "support_files": ["LICENSE.txt"]
+}

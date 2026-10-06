@@ -1,0 +1,16 @@
+{
+  "id": "academic-proofreading-pilot",
+  "version": "0.1.0",
+  "kind": "skill",
+  "title": "Academic proofreading",
+  "description": "Revise supplied academic prose for grammar and clarity while preserving scientific meaning, numbers, and citations.",
+  "author": "MarkeD project",
+  "license": "MIT",
+  "source": "Original MarkeD pilot content; pilot-content/academic-proofreading",
+  "content_file": "SKILL.md",
+  "support_files": ["LICENSE.txt"],
+  "tags": ["academic proofreading", "proofread", "论文校对", "学术校对", "摘要校对"],
+  "stages": ["academic-editing"],
+  "harnesses": ["codex"],
+  "compatible_agents": []
+}

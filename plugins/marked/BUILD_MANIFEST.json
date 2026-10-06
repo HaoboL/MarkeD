@@ -1,0 +1,19 @@
+{
+  "builder": "MarkeD explicit allowlist",
+  "files": {
+    ".codex-plugin/plugin.json": "c35939baa2aec3390a3bfb707564b360401ada3514287090fd038e864f9873f0",
+    ".claude-plugin/plugin.json": "5599104487f968116e765c14640d776f9aab248b2f91990807a0e186a45b7682",
+    "hooks/hooks.json": "633f1da936d2f1eb9f6d50366783ec4b30726f8a9f3e7f27382cc60ad0a4433c",
+    "adapters/universal_hook.py": "0cdc13056b65a87818b9ea76d5b6c0e4b9cb9aa9f10a355fa80e5e644774908a",
+    "adapters/codex_hook.py": "d0c8417939b9315a6dadb52a2f114ec167626b943c01710ba3dc6e21ff3e7b3f",
+    "adapters/claude_hook.py": "03d99a562ee91a4d4f2f1b627ee644b2cffe52c150717481619a79a954d119a9",
+    "marked/__init__.py": "0dc44694c209637cc3a342c82e0040619a76438b3eec0530ae93df24b838c312",
+    "marked/__main__.py": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279",
+    "marked/cli.py": "29cf67cba01f5dd03b1098c17eb8bc5396e3a83f9b63694fbeabfd9df9c578b4",
+    "marked/core.py": "50274b3ed2374731aaffe29af581e623c4eab62e79f56af146a8ccc367d74cf9",
+    "marked/dialogue.py": "21fc59c9b09d795a004a6c531620a0e2b0e8ffc7a04d64ff2e9fa30c57e2cc9d",
+    "marked/hooks.py": "48916a11180918ed71449e5c1e88d5aa78ba99f5cc3346c36f632c3c846cc5a9",
+    "README.md": "f194efc5ce74e977d1c8f414d4df4538e191fdf4162e88598b917206aab6b3c5",
+    "LICENSE": "27feffc7ff0bfc209d9a4b051a630badb50a35496e5b0625993d5eeab4114853"
+  }
+}

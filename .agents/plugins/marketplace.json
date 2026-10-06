@@ -1,0 +1,20 @@
+{
+  "name": "marked-local",
+  "interface": {
+    "displayName": "MarkeD open-source preview"
+  },
+  "plugins": [
+    {
+      "name": "marked",
+      "source": {
+        "source": "local",
+        "path": "./plugins/marked"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

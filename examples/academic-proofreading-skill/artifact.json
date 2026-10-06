@@ -1,0 +1,16 @@
+{
+  "id": "academic-proofreading-skill",
+  "version": "1.0.1",
+  "kind": "skill",
+  "title": "Academic proofreading",
+  "description": "Proofread academic prose for grammar, terminology, and claim clarity.",
+  "author": "MarkeD example team",
+  "license": "MIT",
+  "source": "MarkeD local example",
+  "content_file": "SKILL.md",
+  "tags": ["academic writing", "论文校对"],
+  "stages": ["academic-editing"],
+  "harnesses": ["codex", "claude-code"],
+  "support_files": ["LICENSE.txt"],
+  "compatible_agents": ["academic-editor-agent"]
+}
